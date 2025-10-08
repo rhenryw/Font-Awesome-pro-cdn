@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/gh/tf7software/Font-Awesome-pro-cdn/badge)](https://www.jsdelivr.com/package/gh/tf7software/Font-Awesome-pro-cdn)
+
 Ever wanted to use Font Awesome Pro for free?
 
 Just link the JSDelivr link in between the `<head>` and `</head>` tags like below:
